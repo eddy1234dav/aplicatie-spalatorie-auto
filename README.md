@@ -25,8 +25,6 @@ SUMMER PRACTICE 2025-SPALATORIE AUTO
         -plata este procesata pe un server Flask
 
 Practica de vară – 2025
-
 Facultatea de Automatică, Calculatoare și Electronică – Universitatea din Craiova
-Student: DAVID EDUARD-
-STEFAN
+Student: DAVID EDUARD-STEFAN
 Profesor coordonator: Hurezeanu Bogdan
